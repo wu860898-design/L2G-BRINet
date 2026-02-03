@@ -6,4 +6,4 @@ our network can be used dirictly, but some Interface, data format and how to div
 python 3.7
 pytorch 1.12
 
-If you have any questions, please sent an email to sll@tju.edu.cn
+If you have any questions, please sent an email to sll@tju.edu.cn.
